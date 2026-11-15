@@ -1,3 +1,19 @@
+# Навигатор — 0.1.0-alpha.4
+
+[Скачать JAR напрямую](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.4.jar)
+
+Minecraft Java 26.3 · Fabric Loader 0.20.1 · Fabric API 0.165.0+26.3 · Java 25.
+
+Вейпоинты используют проекцию камеры текущего кадра. Раздельные настройки игроков и NPC: контуры существ без имён по умолчанию, отдельный цвет мирных мобов и необязательные маленькие подписи. Автосмена возвращает заимствованный инструмент в прежнюю ячейку, а заменённый предмет в хотбар.
+
+Сборка и 13 тестов проходят. Возврат предметов проверен по серверному инвентарю в настоящем клиенте для занятого и пустого хотбара.
+
+Заменить старый JAR, оставить Fabric API. Новый мир не нужен; настройки игроков сохраняются.
+
+[Описание](NAVIGATOR_ALPHA4.md) · [Проверки](NAVIGATOR_VALIDATION.md) · [Контуры NPC](navigator-alpha4-screenshots/npc-silhouettes.png)
+
+---
+
 # Навигатор — 0.1.0-alpha.3
 
 [Скачать JAR напрямую](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.3.jar)
