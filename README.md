@@ -1,3 +1,17 @@
+# Навигатор — 0.1.0-alpha.3
+
+[Скачать JAR напрямую](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.3.jar)
+
+Minecraft Java 26.3 · Fabric Loader 0.20.1 · Fabric API 0.165.0+26.3 · Java 25.
+
+X-ray переключается без пересборки чанков. Проверено на интегрированном LAN-хосте с отдельным наблюдателем без Navigator: подсветка и рентген остаются на клиенте хоста. Автоподход раньше реагирует на сближение и осторожнее использует крит; пропущенные удары всё ещё возможны (тест: три активных зомби побеждены, минимум здоровья 17.5/20).
+
+Заменить старый JAR на alpha.3, оставить Fabric API. Управление прежнее. Новый мир не нужен.
+
+[Описание и ограничения](NAVIGATOR_ALPHA3.md) · [Проверки](NAVIGATOR_VALIDATION.md) · [X-ray у хоста](navigator-alpha3-screenshots/host-xray.png) · [Обычная стена у наблюдателя](navigator-alpha3-screenshots/observer-host-xray.png)
+
+---
+
 # Навигатор — 0.1.0-alpha.2
 
 [Скачать JAR alpha.2 напрямую](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.2.jar)
