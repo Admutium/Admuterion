@@ -1,3 +1,19 @@
+# Навигатор — 0.1.0-alpha.12
+
+[Скачать JAR напрямую](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.12.jar)
+
+Minecraft Java 26.3 · Fabric Loader 0.20.1 · Fabric API 0.165.0+26.3 · Java 25.
+
+Часы в своём инвентаре: время Minecraft в формате 24 часов, отсчёт до сна за 150 реальных секунд по умолчанию, настройка положения и предупреждения. Предпросмотр шалкера показывает 27 ячеек при наведении. Значки игроков и друзей заменены силуэтами. Shift+Tab закрывает главное меню и вложенные разделы.
+
+Сборка и 24 теста прошли. Новые функции проверены в настоящем клиенте с интегрированным сервером, включая реальную отрисовку часов, сетку шалкера и сохранность инвентаря.
+
+Замените старый Navigator JAR в mods используемого профиля; Fabric API и настройки оставьте. Прямой установки на компьютер пользователя из облачной среды нет. Разгрузка и поиск в сундуках пока не добавлены. Совместимость с Sodium не менялась.
+
+[Описание](NAVIGATOR_ALPHA12.md) · [Проверки](NAVIGATOR_VALIDATION.md) · [Меню](navigator-alpha12-menu.png) · [Часы](navigator-alpha12-clock.png) · [Шалкер](navigator-alpha12-shulker.png)
+
+---
+
 # Навигатор — 0.1.0-alpha.11
 
 [Скачать JAR напрямую](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.11.jar)
