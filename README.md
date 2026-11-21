@@ -1,3 +1,15 @@
+# Navigator alpha.15
+
+[Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.15.jar)
+
+Автореролл библиотекаря с таблицей книг, лимитом цены, сигналом при находке, закреплением за одну покупку и оформлением вывески. Откройте плитку «Автореролл» через Shift+Tab и назначьте клавишу.
+
+Minecraft Java 26.3 · Fabric Loader 0.20.1 · Fabric API 0.165.0+26.3 · Java 25.
+
+[Описание](NAVIGATOR_ALPHA15.md) · [Скриншот таблицы](navigator-alpha15-reroll.png)
+
+---
+
 # Navigator alpha.14
 
 [Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.14.jar)
