@@ -1,3 +1,13 @@
+# Navigator alpha.17
+
+[Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.17.jar)
+
+Сбор тростника автоматически распознаёт направление посадок по самим рядам. Движение на прямых и поворотах плавнее, а подбор учитывает предметы чуть выше прохода.
+
+[Описание](NAVIGATOR_ALPHA17.md)
+
+---
+
 # Navigator alpha.16
 
 [Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.16.jar)
