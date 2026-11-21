@@ -1,3 +1,15 @@
+# Navigator alpha.14
+
+[Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.14.jar)
+
+Shift+Tab показывает все 17 функций на одном экране. Автобой отступает от шипящего крипера и обходит углы стены при включённом безопасном подходе.
+
+Minecraft Java 26.3 · Fabric Loader 0.20.1 · Fabric API 0.165.0+26.3 · Java 25.
+
+[Описание](NAVIGATOR_ALPHA14.md) · [Скриншот меню](navigator-alpha14-menu.png)
+
+---
+
 # Navigator alpha.13
 
 [Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.13.jar)
