@@ -1,3 +1,15 @@
+# Navigator alpha.16
+
+[Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.16.jar)
+
+Сбор тростника по рядам со спринтом, сохранением корней и счётчиком подбора. Автореролл показывает книги, уровни и цену последнего броска.
+
+Minecraft Java 26.3 · Fabric Loader 0.20.1 · Fabric API 0.165.0+26.3 · Java 25.
+
+[Описание](NAVIGATOR_ALPHA16.md) · [Скриншот настроек](navigator-alpha16-cane.png)
+
+---
+
 # Navigator alpha.15
 
 [Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.15.jar)
