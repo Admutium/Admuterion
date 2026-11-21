@@ -1,3 +1,15 @@
+# Navigator alpha.13
+
+[Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.13.jar)
+
+G меняет элитры и нагрудник. Автототем поддерживает постоянный режим и порог здоровья. Авторыбалка отображается компактным значком. Редактор HUD позволяет передвигать и масштабировать панели, включая часы инвентаря.
+
+Проверены обмен экипировки, автототем, перетаскивание и масштабирование в клиенте с интегрированным сервером. Все 24 теста прошли.
+
+[Описание](NAVIGATOR_ALPHA13.md) · [Редактор HUD](navigator-alpha13-hud.png) · [Положение часов](navigator-alpha13-clock-layout.png)
+
+---
+
 # Навигатор — 0.1.0-alpha.12
 
 [Скачать JAR напрямую](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.12.jar)
