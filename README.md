@@ -1,3 +1,13 @@
+# Navigator alpha.20
+
+[Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.20.jar)
+
+Карта мира по M показывает поверхность под наклоном, с текстурами блоков и боковыми гранями склонов. В Freecam удержание клавиши спринта ускоряет камеру в 2,5 раза.
+
+[Описание](NAVIGATOR_ALPHA20.md) · [Скриншот карты](navigator-alpha20-map.png)
+
+---
+
 # Navigator alpha.19
 
 [Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.19.jar)
