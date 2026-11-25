@@ -1,3 +1,13 @@
+# Navigator alpha.21
+
+[Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.21.jar)
+
+Тактический автобой по удержанию R. Слева — действия и причины, справа — портреты мобов, HP и приоритет. Цвет линии на местности соответствует оценке моба в списке.
+
+[Описание](NAVIGATOR_ALPHA21.md) · [Скриншот из игры](navigator-alpha21-combat.png)
+
+---
+
 # Navigator alpha.20
 
 [Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.20.jar)
