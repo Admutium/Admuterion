@@ -1,3 +1,13 @@
+# Navigator alpha.22
+
+[Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.22.jar)
+
+Карта по M открывает текущее измерение и автоматически показывает срез в пещере. Вкладки открывают сохранённую карту Верхнего мира, Незера и Энда. Ctrl + колесо меняет высоту; кроны деревьев рисуются отдельно от земли.
+
+[Описание](NAVIGATOR_ALPHA22.md) · [Срез пещеры в игре](navigator-alpha22-cave.png)
+
+---
+
 # Navigator alpha.21
 
 [Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.21.jar)
