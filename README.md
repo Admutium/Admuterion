@@ -1,3 +1,13 @@
+# Navigator alpha.19
+
+[Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.19.jar)
+
+Карта Верхнего мира открывается по M. На карте есть затенённый рельеф, плавный зум вокруг курсора, метки и локальное сохранение полученной поверхности.
+
+[Описание](NAVIGATOR_ALPHA19.md) · [Скриншот карты](navigator-alpha19-map.png)
+
+---
+
 # Navigator alpha.18
 
 [Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.18.jar)
