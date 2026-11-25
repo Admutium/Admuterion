@@ -1,3 +1,13 @@
+# Navigator alpha.18
+
+[Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.18.jar)
+
+Свободная камера по U, предупреждение при копании вниз с учётом экипировки и эффектов, компактный счётчик стрел.
+
+[Описание](NAVIGATOR_ALPHA18.md) · [Предупреждение](navigator-alpha18-fall.png) · [Freecam](navigator-alpha18-freecam.png)
+
+---
+
 # Navigator alpha.17
 
 [Скачать JAR](https://github.com/Admutium/Admuterion/raw/refs/heads/downloads-preview/navigator-0.1.0-alpha.17.jar)
